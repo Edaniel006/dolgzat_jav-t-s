@@ -1,1 +1,1 @@
-# dolgzat_jav-t-s
+# dolgzat_javitas
