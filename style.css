@@ -1,0 +1,54 @@
+.cim {
+    text-align: center;
+    color: white;
+
+}
+.para {
+ font-size: 20px;
+ color: aqua;
+}
+.bece {
+    color: aqua;
+    font-size: 20px;
+}
+.hasz {
+font-size: 40px;
+color: white;
+}
+.vlo {
+font-size: 21px;
+color: white;
+
+}
+.hlo {
+    font-size: 21px;
+    color: white;
+
+
+}
+#vizilo {
+height: 350px;
+width: 450px;
+border-radius: 21px;
+
+
+
+}
+#hiuz {
+    height: 350px;
+width: 450px;
+border-radius: 21px;
+float: right;
+
+
+
+}
+#maki{
+    height: 350px;
+width: 450px;
+border-radius: 21px;
+
+
+
+
+}
